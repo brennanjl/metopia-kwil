@@ -2,13 +2,13 @@
 
 Metopia is a decentralized credential issuance and storage network. It is built using [Kwil](<https://docs.kwil.com>), a framework for building decentralized storage networks.
 
-![banner](./assets/logo.png)
+![banner](./assets/metopia_logo.png)
 
 ## Getting Started
 
 ### Installation
 
-To get started with development, you will need to install:
+To get started with development, you will need to install the following:
 
 - [Go 1.23+](<https://go.dev/doc/install>)
 - [Docker](<https://docs.docker.com/engine/install/>)
